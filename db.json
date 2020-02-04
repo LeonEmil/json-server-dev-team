@@ -1,0 +1,56 @@
+{
+    "tools": [
+        {
+            "name": "Responsive breakpoints",
+            "description": "Aplicación web para generar imágenes responsive",
+            "src": "https://www.responsivebreakpoints.com/",
+            "image": {
+                "src": "https://cloudinary-res.cloudinary.com/image/upload/responsive_breakpoints_post.jpg",
+                "alt": "Imágen del funcionamiento de la aplicación mostrando la transformación de una imagen a varios tamaños para su adaptación a diferentes dispositivos"
+            }
+        }
+    ],
+    "books": [
+        {
+            "name": "Software libre para una sociedad libre",
+            "author": "Richard Stallman",
+            "description": "Software libre para una sociedad libre es un libro que recopila diversos ensayos de Richard M. Stallman, fundador de la Fundación del Software Libre. Fue publicado en 2002 bajo la GNU Free Documentation License.",
+            "src": "https://www.gnu.org/philosophy/fsfs/free_software.es.pdf",
+            "image": {
+                "src": "https://biblioweb.sindominio.net/pensamiento/softlibre/portada_rms-big.jpg",
+                "alt": "Portada color verde del libro con el título y nombre del autor"
+            }
+        }
+    ],
+    "movies": [
+        {
+            "name": "Fugitivo del futuro",
+            "description": "Protagonizada por Keanu Reeves",
+            "src": "https://www.youtube.com/watch?v=5A1e1ptot1o",
+            "image": {
+                "src": "https://pics.filmaffinity.com/Fugitivo_del_futuro-391256610-large.jpg",
+                "alt": "Portada de la película. En la imágen se ve a Keanu Reves en la ciudad del futuro"
+            }
+        }
+    ],
+    "learning": [
+        {
+            "name": "HarvardX",
+            "description": "Cursos de la universidad de Harvard sobre programación y tecnología",
+            "src": "https://www.edx.org/school/hardvardx",
+            "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/EdX.svg/1200px-EdX.svg.png",
+                "alt": "Logo de la plataforma EDx en donde se imparte el curso"
+            }
+        },
+        {
+            "name": "MITX",
+            "description": "Cursos del MIT sobre programación y tecnología",
+            "src": "https://www.edx.org/school/mitx",
+            "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/EdX.svg/1200px-EdX.svg.png",
+                "alt": "Logo de la plataforma EDx en donde se imparte el curso"
+            }
+        }
+    ]
+}
