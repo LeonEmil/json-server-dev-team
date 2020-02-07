@@ -117,7 +117,7 @@
             "id": 10,
             "name": "HarvardX",
             "description": "Cursos gratuitos de la universidad de Harvard sobre programación y tecnología",
-            "url": "https://www.edx.org/school/hardvardx",
+            "src": "https://www.edx.org/school/hardvardx",
             "image": {
                 "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/EdX.svg/1200px-EdX.svg.png",
                 "alt": "Logo de la plataforma EDx en donde se imparte el curso"
@@ -127,7 +127,7 @@
             "id": 11,
             "name": "MITX",
             "description": "Cursos gratuitos del MIT sobre programación y tecnología",
-            "url": "https://www.edx.org/school/mitx",
+            "src": "https://www.edx.org/school/mitx",
             "image": {
                 "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/EdX.svg/1200px-EdX.svg.png",
                 "alt": "Logo de la plataforma EDx en donde se imparte el curso"
