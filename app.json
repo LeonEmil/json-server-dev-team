@@ -1,0 +1,133 @@
+{
+    "projects": [
+        {
+            "name": "Combertidor de javascript a diagrama de flujo",
+            "description": "Aplicación para combertir javascript a diagrama de flujo en SVG",
+            "src": "https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart",
+            "image": {
+                "src": "https://jquery-plugins.net/image/plugin/flowchartjs-svg-flow-chart-diagrams-with-javascript.png",
+                "alt": "Imagen que muestra un diagrama de flujo de simple con una condicional en javascript"
+            }
+        },
+        {
+            "name": "Wave.js",
+            "description": "Libreria para visualizar audio con javascript",
+            "src": "https://github.com/foobar404/Wave.js",
+            "image": {
+                "src": "https://i1.wp.com/www.cssscript.com/wp-content/uploads/2019/05/Audio-Visualization-On-Canvas-Wave.js.jpg?fit=856%2C807&ssl=1",
+                "alt": "Imagen que muestra diferentes animaciones de audio que ofrece la libreria"
+            }
+        }
+    ],
+
+    "tools": [
+        {
+            "name": "Responsive breakpoints",
+            "description": "Aplicación web para generar imágenes responsive",
+            "src": "https://www.responsivebreakpoints.com/",
+            "image": {
+                "src": "https://cloudinary-res.cloudinary.com/image/upload/responsive_breakpoints_post.jpg",
+                "alt": "Imágen del funcionamiento de la aplicación mostrando la transformación de una imagen a varios tamaños para su adaptación a diferentes dispositivos"
+            }
+        },
+        {
+            "name": "Uizard",
+            "description": "Transforma tus wireframes dibujados a mano en archivos de diseño digital y código frontal automáticamente",
+            "src": "https://uizard.io/",
+            "image": {
+                "src": "https://uizard.io/opengraph-2018-09-27-16-48.png",
+                "alt": "Imagen que muestra el funcionamiento de la aplicación. Se ve como un esquema hecho a mano se transforma en una interfaz para la web automáticamente."
+            }
+        },
+        {
+            "name": "Codin game",
+            "description": "Aprenda nuevos conceptos resolviendo desafíos divertidos en más de 25 lenguajes que abordan todos los problemas de programación actuales.",
+            "src": "https://www.codingame.com/start",
+            "image": {
+                "src": "https://fossbytes.com/wp-content/uploads/2016/09/codingame-get-better-at-coding.jpg",
+                "alt": "Imagen de pantalla de juego de codingame con el juego a la izquierda y el panel de código a la derecha"
+            }
+        },
+        {
+            "name": "Hackerrank",
+            "description": "Únase a más de 7 millones de desarrolladores, practique habilidades de codificación, prepárese para entrevistas y sea contratado.",
+            "src": "https://www.hackerrank.com/",
+            "image": {
+                "src": "https://i.ytimg.com/vi/tJl36vQtA5k/maxresdefault.jpg",
+                "alt": "Logo de hacker rank, una H con fondo verde y dos flechas a los lados"
+            }
+        },
+        {
+            "name": "Editor config",
+            "description": "EditorConfig ayuda a mantener estilos de codificación consistentes para múltiples desarrolladores que trabajan en el mismo proyecto en varios editores e IDE. El proyecto EditorConfig consta de un formato de archivo para definir estilos de codificación y una colección de complementos de editor de texto que permiten a los editores leer el formato de archivo y adherirse a los estilos definidos. Los archivos EditorConfig son fáciles de leer y funcionan muy bien con los sistemas de control de versiones.",
+            "src": "https://editorconfig.org/",
+            "image": {
+                "src": "https://frontendlabs.io/wp-content/uploads/2016/02/editorconfig-logo1.png",
+                "alt": "Logo de editor config. La cara de un ratón con lentes"
+            }
+        },
+        {
+            "name": "Zeit",
+            "description": "ZEIT Now es el flujo de trabajo óptimo para los equipos que crean en la web. Todo en uno: implementación estática y JAMstack, funciones sin servidor y CDN global",
+            "src": "https://zeit.co/",
+            "image": {
+                "src": "https://ucarecdn.com/bbc697e3-4a36-4008-8e74-a1e7d1555eab/",
+                "alt": "Logo de Zeit"
+            }
+        },
+        {
+            "name": "EDgrid",
+            "description": "Libreria open source para construir layouts",
+            "src": "https://ed-grid.com/",
+            "image": {
+                "src": "https://ed-grid.com/assets/img/EDgrid-logo.svg",
+                "alt": "Logo de EDgrid"
+            }
+        },
+        {
+            "name": "Libraries.io",
+            "description": "Librerias, frameworks y herramientas de código abierto",
+            "src": "https://libraries.io/",
+            "image": {
+                "src": "https://pbs.twimg.com/profile_images/981162739308507136/VYxQPJ6I_400x400.jpg",
+                "alt": "Logo de libraries.io"
+            }
+        },
+        {
+            "name": "NASA Open Source",
+            "description": "Proyectos de código abierto de la NASA",
+            "src": "https://code.nasa.gov/",
+            "image": {
+                "src": "https://opensourcerover.jpl.nasa.gov/assets/meta/social.jpg",
+                "alt": "Imagen de un robot de la NASA basado en software libre. El mensaje a la izquierda del robot dice: 'construye tu propio rover'"
+            }
+        },
+        {
+            "name": "HarvardX",
+            "description": "Cursos gratuitos de la universidad de Harvard sobre programación y tecnología",
+            "url": "https://www.edx.org/school/hardvardx",
+            "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/EdX.svg/1200px-EdX.svg.png",
+                "alt": "Logo de la plataforma EDx en donde se imparte el curso"
+            }
+        },
+        {
+            "name": "MITX",
+            "description": "Cursos gratuitos del MIT sobre programación y tecnología",
+            "url": "https://www.edx.org/school/mitx",
+            "image": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/EdX.svg/1200px-EdX.svg.png",
+                "alt": "Logo de la plataforma EDx en donde se imparte el curso"
+            }
+        },
+        {
+            "name": "Software libre para una sociedad libre",
+            "description": "Software libre para una sociedad libre es un libro que recopila diversos ensayos de Richard M. Stallman, fundador de la Fundación del Software Libre. Fue publicado en 2002 bajo la GNU Free Documentation License.",
+            "src": "https://www.gnu.org/philosophy/fsfs/free_software.es.pdf",
+            "image": {
+                "src": "https://biblioweb.sindominio.net/pensamiento/softlibre/portada_rms-big.jpg",
+                "alt": "Portada color verde del libro con el título y nombre del autor"
+            }
+        }
+    ]
+}
