@@ -1,6 +1,7 @@
 {
     "projects": [
-        {
+        {   
+            "id": 1,
             "name": "Combertidor de javascript a diagrama de flujo",
             "description": "Aplicación para combertir javascript a diagrama de flujo en SVG",
             "src": "https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart",
@@ -10,6 +11,7 @@
             }
         },
         {
+            "id": 2,
             "name": "Wave.js",
             "description": "Libreria para visualizar audio con javascript",
             "src": "https://github.com/foobar404/Wave.js",
@@ -22,6 +24,7 @@
 
     "tools": [
         {
+            "id": 1,
             "name": "Responsive breakpoints",
             "description": "Aplicación web para generar imágenes responsive",
             "src": "https://www.responsivebreakpoints.com/",
@@ -31,6 +34,7 @@
             }
         },
         {
+            "id": 2,
             "name": "Uizard",
             "description": "Transforma tus wireframes dibujados a mano en archivos de diseño digital y código frontal automáticamente",
             "src": "https://uizard.io/",
@@ -40,6 +44,7 @@
             }
         },
         {
+            "id": 3,
             "name": "Codin game",
             "description": "Aprenda nuevos conceptos resolviendo desafíos divertidos en más de 25 lenguajes que abordan todos los problemas de programación actuales.",
             "src": "https://www.codingame.com/start",
@@ -49,6 +54,7 @@
             }
         },
         {
+            "id": 4,
             "name": "Hackerrank",
             "description": "Únase a más de 7 millones de desarrolladores, practique habilidades de codificación, prepárese para entrevistas y sea contratado.",
             "src": "https://www.hackerrank.com/",
@@ -58,6 +64,7 @@
             }
         },
         {
+            "id": 5,
             "name": "Editor config",
             "description": "EditorConfig ayuda a mantener estilos de codificación consistentes para múltiples desarrolladores que trabajan en el mismo proyecto en varios editores e IDE. El proyecto EditorConfig consta de un formato de archivo para definir estilos de codificación y una colección de complementos de editor de texto que permiten a los editores leer el formato de archivo y adherirse a los estilos definidos. Los archivos EditorConfig son fáciles de leer y funcionan muy bien con los sistemas de control de versiones.",
             "src": "https://editorconfig.org/",
@@ -67,6 +74,7 @@
             }
         },
         {
+            "id": 6,
             "name": "Zeit",
             "description": "ZEIT Now es el flujo de trabajo óptimo para los equipos que crean en la web. Todo en uno: implementación estática y JAMstack, funciones sin servidor y CDN global",
             "src": "https://zeit.co/",
@@ -76,6 +84,7 @@
             }
         },
         {
+            "id": 7,
             "name": "EDgrid",
             "description": "Libreria open source para construir layouts",
             "src": "https://ed-grid.com/",
@@ -85,6 +94,7 @@
             }
         },
         {
+            "id": 8,
             "name": "Libraries.io",
             "description": "Librerias, frameworks y herramientas de código abierto",
             "src": "https://libraries.io/",
@@ -94,6 +104,7 @@
             }
         },
         {
+            "id": 9,
             "name": "NASA Open Source",
             "description": "Proyectos de código abierto de la NASA",
             "src": "https://code.nasa.gov/",
@@ -103,6 +114,7 @@
             }
         },
         {
+            "id": 10,
             "name": "HarvardX",
             "description": "Cursos gratuitos de la universidad de Harvard sobre programación y tecnología",
             "url": "https://www.edx.org/school/hardvardx",
@@ -112,6 +124,7 @@
             }
         },
         {
+            "id": 11,
             "name": "MITX",
             "description": "Cursos gratuitos del MIT sobre programación y tecnología",
             "url": "https://www.edx.org/school/mitx",
@@ -121,6 +134,7 @@
             }
         },
         {
+            "id": 12,
             "name": "Software libre para una sociedad libre",
             "description": "Software libre para una sociedad libre es un libro que recopila diversos ensayos de Richard M. Stallman, fundador de la Fundación del Software Libre. Fue publicado en 2002 bajo la GNU Free Documentation License.",
             "src": "https://www.gnu.org/philosophy/fsfs/free_software.es.pdf",
